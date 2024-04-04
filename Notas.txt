@@ -1,0 +1,2 @@
+- Para entrar a la consola desde un archivo pararte en la direccion y escribir "cmd"
+- Ejecutar el js en la consola: npm run *nombre de la funcion*
