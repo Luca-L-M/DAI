@@ -1,0 +1,21 @@
+{
+  "name": "tp_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ejer01": "node src/ejer1.js",
+    "ejer02": "node src/ejer2.js",
+    "ejer03": "node src/ejer3.js",
+    "ejer04": "node src/ejer4.js",
+    "ejer05": "node src/ejer5.js",
+    "ejer06": "node src/ejer6.js",
+    "ejer07": "node src/ejer7.js",
+    "ejer08": "node src/ejer8.js"
+
+  },
+  "author": "luca",
+  "license": "ISC"
+}
