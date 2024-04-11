@@ -14,8 +14,11 @@
     "ejer06": "node src/ejer6.js",
     "ejer07": "node src/ejer7.js",
     "ejer08": "node src/ejer8.js"
-
   },
   "author": "luca",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "currency-map-country": "^1.0.12"
+  }
 }
